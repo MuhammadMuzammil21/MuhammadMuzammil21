@@ -25,9 +25,6 @@
 - **Airline Ticket MIS** – Full-stack web app for bookings, loyalty programs, and admin management  
 - **Simulation Game** – Interactive C++ game using OOP and SFML  
 - **Console Shopping Portal** – Built with data structures & algorithms for recommendation systems  
-- **Assembly Code Generator** – Converts math expressions into x86 assembly  
-- **UI/UX Design for AIZA Packages** – Designed responsive interfaces in Figma  
-
 <!---
 MuhammadMuzammil21/MuhammadMuzammil21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
