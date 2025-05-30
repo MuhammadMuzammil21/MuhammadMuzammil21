@@ -24,7 +24,8 @@
 - **SamaanSync** - NodeJS project for store management.
 - **Airline Ticket MIS** – Full-stack web app for bookings, loyalty programs, and admin management  
 - **Simulation Game** – Interactive C++ game using OOP and SFML  
-- **Console Shopping Portal** – Built with data structures & algorithms for recommendation systems  
+- **Console Shopping Portal** – Built with data structures & algorithms for recommendation systems
+- **Tower Defence Game** - A 2D tower defense prototype developed in Unity
 <!---
 MuhammadMuzammil21/MuhammadMuzammil21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
